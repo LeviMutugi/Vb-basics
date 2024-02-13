@@ -1,0 +1,9 @@
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software_Assigment.Welcoming_form.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software_Assigment.Form2.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software_Assigment.Resources.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software Assigment.vbproj.GenerateResource.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software Assigment.AssemblyInfoInputs.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software Assigment.AssemblyInfo.vb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software Assigment.vbproj.CoreCompileInputs.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows\Software_Assigment.Object_Demo.resources

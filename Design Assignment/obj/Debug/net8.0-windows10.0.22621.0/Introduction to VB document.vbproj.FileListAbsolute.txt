@@ -1,0 +1,21 @@
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.exe
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.deps.json
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.runtimeconfig.json
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.pdb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software_Assigment.Resources.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software_Assigment.Object_Demo.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software_Assigment.Welcoming_form.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.vbproj.GenerateResource.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.AssemblyInfoInputs.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.AssemblyInfo.vb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.vbproj.CoreCompileInputs.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.vbproj.CopyComplete
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\refint\Introduction to VB document.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.pdb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Introduction to VB document.genruntimeconfig.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\ref\Introduction to VB document.dll

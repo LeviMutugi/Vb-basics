@@ -1,0 +1,21 @@
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software_Assigment.Resources.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software_Assigment.Object_Demo.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software_Assigment.Welcoming_form.resources
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.vbproj.GenerateResource.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.AssemblyInfoInputs.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.AssemblyInfo.vb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.vbproj.CoreCompileInputs.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Software Assigment.exe
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Software Assigment.deps.json
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Software Assigment.runtimeconfig.json
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Software Assigment.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Software Assigment.pdb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\bin\Debug\net8.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.vbproj.CopyComplete
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\refint\Software Assigment.dll
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.pdb
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\Software Assigment.genruntimeconfig.cache
+C:\Users\Kami\Desktop\LEVI\Software Assigment\obj\Debug\net8.0-windows10.0.22621.0\ref\Software Assigment.dll

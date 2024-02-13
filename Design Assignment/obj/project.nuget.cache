@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qLSfIGIiTpOF2hgA3suzDPI2pasW7/QIvN3R6jI8pHmGhQZ96e/iYHcLoyAuE8eRCcOmVgzI3n9mJW4/Mi7ZXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kami\\Desktop\\LEVI\\Software Assigment\\Introduction to VB document.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kami\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}
